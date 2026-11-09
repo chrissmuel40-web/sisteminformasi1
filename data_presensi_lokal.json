@@ -1,0 +1,20 @@
+{
+    "mhs_6aecbe9fba31d": {
+        "nim": "i43251288",
+        "nama": "rizky",
+        "mataKuliah": "mm",
+        "tanggal": "2026-11-05",
+        "status": "Sakit",
+        "catatan": "saya sakit pak",
+        "createdAt": "2026-11-05 17:36:31"
+    },
+    "mhs_6aecc057c3e8b": {
+        "nim": "i43251288",
+        "nama": "samuel",
+        "mataKuliah": "web",
+        "tanggal": "2026-11-05",
+        "status": "Hadir",
+        "catatan": "-",
+        "createdAt": "2026-11-05 17:43:51"
+    }
+}

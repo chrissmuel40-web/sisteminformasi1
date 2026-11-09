@@ -1,0 +1,28 @@
+{
+  "presensi": {
+    "mhs_001": {
+      "nim": "220101001",
+      "nama": "Budi Santoso",
+      "mataKuliah": "Pemrograman Web",
+      "tanggal": "2026-10-28",
+      "status": "Hadir",
+      "catatan": "Hadir tepat waktu"
+    },
+    "mhs_002": {
+      "nim": "220101002",
+      "nama": "Siti Rahma",
+      "mataKuliah": "Pemrograman Web",
+      "tanggal": "2026-10-28",
+      "status": "Izin",
+      "catatan": "Mengikuti kegiatan kampus"
+    },
+    "mhs_003": {
+      "nim": "220101003",
+      "nama": "Ahmad Rizky",
+      "mataKuliah": "Pemrograman Web",
+      "tanggal": "2026-10-28",
+      "status": "Sakit",
+      "catatan": "Surat dokter terlampir"
+    }
+  }
+}
